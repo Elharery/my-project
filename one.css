@@ -51,9 +51,10 @@ color: white;
     font-family: system-ui;
         
     }
-    .artical-one-for-div-one:hover{
-        color: orange;
-    }
+.artical-one-for-div-one:hover{
+    color: orange;
+    
+}
 
 .span-one-for-div-one{
     position: relative;
