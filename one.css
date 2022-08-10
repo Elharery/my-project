@@ -51,10 +51,10 @@ color: white;
     font-family: system-ui;
         
     }
-    .span-one-for-div-one:hover{
+    .artical-one-for-div-one:hover{
         color: orange;
-        transition-duration: 0.3s;
     }
+
 .span-one-for-div-one{
     position: relative;
     top: 20px;
