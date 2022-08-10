@@ -44,11 +44,14 @@
 
     .artical-one-for-div-one {
 color: white;
-    padding-left: 80px;
-    padding-top: 180px;
+    /* padding-left: 80px; */
+    /* padding-top: 180px; */
     font-size: 30px;
     font-weight: bolder;
     font-family: system-ui;
+    position: relative;
+    left: 45px;
+    top: 203px;
         
     }
 .artical-one-for-div-one:hover{
@@ -66,11 +69,15 @@ color: white;
                 }
 
     .artical-two-for-div-one {
-        color: white;
-        padding-left: 75px;
-        font-size: large;
-        font-weight: bolder;
-        font-family: sans-serif;
+color: white;
+    /* padding-left: 75px; */
+    font-size: large;
+    font-weight: bolder;
+    font-family: sans-serif;
+    position: relative;
+    left: 45px;
+    top: 200px;
+
     }
 
     .artical-three-for-div-one {
