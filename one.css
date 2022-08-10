@@ -4,7 +4,8 @@
     .div-one {
         
         height: 500px;
-        background-image: url('my pic.jpg');
+        background-image: url(my\ pic.jpg);
+        
         background-repeat: no-repeat;
         background-size: cover;
         border-radius: 10px;
