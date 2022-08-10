@@ -51,13 +51,11 @@ color: orange;
     font-family: system-ui;
         
     }
-    /* .artical-one-for-div-one:hover{
-        color: orange;
-    } */
+
 .span-one-for-div-one{
     position: relative;
     top: 20px;
-    left: -288px;
+    left: -335px;
 }
                 .span-two-for-div-one {
                     color: orange;
